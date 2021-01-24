@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SceneManager.unity
+    guid: 464fb05a01d1a424a8d7650794908f9e
+  - enabled: 1
+    path: Assets/Scenes/Doughnut.unity
+    guid: c19a341592da04f4588d3b3f3f28b74f
+  - enabled: 1
+    path: Assets/Scenes/Glider.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Disrupt.unity
+    guid: bc4e94bd01fe8644b9d9ff8a1020bfb9
+  m_configObjects: {}
